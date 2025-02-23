@@ -12,6 +12,7 @@ except FileNotFoundError as ex:
     import sys
     sys.exit(1)
 
+
 while True:
     print(""" --- Cars App--- 
 [1] Show available cars
